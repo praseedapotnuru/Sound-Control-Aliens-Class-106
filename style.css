@@ -1,0 +1,43 @@
+body {
+	text-align: center;
+	font-family: monospace;
+	align-content: center;
+	align-contents: center; 
+	width:100%;
+}
+
+.header_div {
+	font-family: monospace;
+	width: 100%;
+}
+
+.header_div p {
+	color: mediumpurple;
+	letter-spacing: 1.5px;
+	font-size: 15px;
+	font-weight: bolder;
+	font-family: sans-serif;
+}
+
+.main_div button {
+	font-family: monospace;
+	background-color: mediumpurple;
+	letter-spacing: 1px;
+	font-weight: bold;
+	width: 150px;
+	margin-top: 40px;
+}
+
+.copy_right_footer {
+	position: static;
+	background: lightblue;
+	color: mediumpurple;
+	bottom: 0px;
+	width: 100%;
+	font-size: 20px;
+	color: mediumpurple;
+	line-height: 3px;
+	text-align: center;
+	text-shadow: 5px 5px 3px 3px deepskyblue;
+	background-color: lightblue;
+}
